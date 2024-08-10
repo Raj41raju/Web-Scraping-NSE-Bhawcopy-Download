@@ -1,0 +1,7 @@
+pandas
+numpy
+seaborn
+matplotlib
+zipfile36
+requests
+python-dateutil
